@@ -1,0 +1,27 @@
+.tableRow:hover{
+    background-color:rgb(126, 177, 126);
+    opacity:0.6;
+    cursor:pointer
+}
+.actionIcon{
+    cursor:pointer
+}
+
+
+.tableHead{
+    background-color: rgb(39, 211, 159);
+}
+
+.search {
+    border: 4px solid rgb(39, 211, 159);;
+    border-radius: 4px;
+    position: absolute;
+    left: 40%;
+    transform: translate(0, -50%);
+    padding: 10px;
+  }
+
+  .addIcon{
+      background-color: rgb(39, 211, 159);
+      
+  }

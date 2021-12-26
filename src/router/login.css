@@ -1,0 +1,11 @@
+.center {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(0, -50%);
+    border: 5px solid #141409;
+    padding: 10px;
+}
+.loginBtn{
+    padding: 10px;
+}

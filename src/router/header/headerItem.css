@@ -1,0 +1,6 @@
+.headerItem{
+    width:'60px'
+}
+.selectedHeaderItem{
+    background-color: rgb(39, 211, 159);
+};
